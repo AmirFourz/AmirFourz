@@ -3,6 +3,7 @@
 <h3 align="center">A passionate Python developer from Iran</h3>
 
 <img align="right" alt="AmirFourz" width="400px" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/AmirFourz?style=social">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirfourz&label=Profile%20views&color=0e75b6&style=flat" alt="amirfourz" /> </p>
 
