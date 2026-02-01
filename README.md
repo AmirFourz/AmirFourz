@@ -1,27 +1,34 @@
+# Hi 👋, I'm Amir
 
-<h1 align="center">Hi 👋, I'm Amir</h1>
-<h3 align="center">A passionate Python developer from Iran</h3>
+### Python Developer 🐍 | Learning ML & DL | Passionate about learning, data, and problem-solving from Iran
 
-<img align="right" alt="AmirFourz" width="400px" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/AmirFourz?style=social">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AmirFourz&label=Profile views&color=0e75b6&style=flat" alt="AmirFourz" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amirfourz&label=Profile%20views&color=0e75b6&style=flat" alt="amirfourz" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AmirFourz" alt="AmirFourz" /></a> </p>
 
-- 🌱 I’m currently learning **Python advance and Machin learning**
+- 🌱 I'm currently learning **Advance Python, machine learning, Deep Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AmirFourz](https://github.com/AmirFourz)
+- 🤝 I'm looking for help with **machine learning, Deep Learning**
 
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **amir.hossein.kiover@gmail.com**
 
+- ⚡ Fun fact **I think I should be hardworking.**
+
+- 👨‍💻 All of my projects are available at **[https://github.com/AmirFourz](https://github.com/AmirFourz)**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://github.com/AmirFourz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AmirFourz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amirfourz&show_icons=true&locale=en&layout=compact" alt="amirfourz" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmirFourz&show_icons=true&locale=en&layout=compact" alt="AmirFourz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirfourz&" alt="amirfourz" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AmirFourz&show_icons=true&locale=en" alt="AmirFourz" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmirFourz&" alt="AmirFourz" /></p>
+
